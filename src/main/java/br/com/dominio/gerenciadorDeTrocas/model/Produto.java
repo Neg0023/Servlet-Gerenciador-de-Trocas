@@ -7,6 +7,7 @@ public class Produto {
 	private String nomeProduto;
 	private Integer quantidade;
 	private Double preco;
+	
 	public Long getId() {
 		return id;
 	}
